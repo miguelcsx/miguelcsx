@@ -5,19 +5,19 @@
 <!-- Social icons section -->
 <p align="center">
   <!-- Twitter-->
-  <a target="_blank" href="https://twitter.com/miguelcsx"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/32/da4167/twitter.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://twitter.com/miguelcsx"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/32/84bcda/twitter.png#gh-dark-mode-only"/></a>
   <!-- Instagram -->
-  <a target="_blank" href="https://www.instagram.com/miguelcsx/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/da4167/instagram-new--v1.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://www.instagram.com/miguelcsx/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/84bcda/instagram-new--v1.png#gh-dark-mode-only"/></a>
   <!-- Linkedin -->
-  <a target="_blank" href="https://linkedin.com/in/miguelcsx"><img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/50/da4167/linkedin.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://linkedin.com/in/miguelcsx"><img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/50/84bcda/linkedin.png#gh-dark-mode-only"/></a>
   <!-- Facebook -->
-  <a target="_blank" href="https://facebook.com/miguelxcs"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/da4167/facebook-new.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://facebook.com/miguelxcs"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/84bcda/facebook-new.png#gh-dark-mode-only"/></a>
   
   
 </p>
 
 
-### Welcome back! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=miguelcsx.miguecsx)
+### Welcome back! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=miguelcsx.miguelcsx)
 
 I'm a computer science student and traveler who loves to learn new things and connect with people and cultures.
 I tend to be very creative, and I try to give my best in everything I do, I work on projects that allow me to leave my mark on the world.
