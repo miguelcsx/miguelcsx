@@ -5,13 +5,13 @@
 <!-- Social icons section -->
 <p align="center">
   <!-- Twitter-->
-  <a target="_blank" href="https://twitter.com/miguelcsx"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/32/00a878/twitter.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://twitter.com/miguelcsx"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/32/1c6e8c/twitter.png#gh-dark-mode-only"/></a>
   <!-- Instagram -->
-  <a target="_blank" href="https://www.instagram.com/miguelcsx/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/00a878/instagram-new--v1.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://www.instagram.com/miguelcsx/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/1c6e8c/instagram-new--v1.png#gh-dark-mode-only"/></a>
   <!-- Linkedin -->
-  <a target="_blank" href="https://linkedin.com/in/miguelcsx"><img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/50/00a878/linkedin.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://linkedin.com/in/miguelcsx"><img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/50/1c6e8c/linkedin.png#gh-dark-mode-only"/></a>
   <!-- Facebook -->
-  <a target="_blank" href="https://facebook.com/miguelxcs"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/00a878/facebook-new.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://facebook.com/miguelxcs"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/1c6e8c/facebook-new.png#gh-dark-mode-only"/></a>
   
   
 </p>
