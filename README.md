@@ -1,6 +1,6 @@
 # Hello world, I'm Miguel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Hey there, I'm Miguel](https://github.com/miguelcsx/miguelcsx/blob/main/profile_galaxy.gif)
+![Hey there, I'm Miguel](https://github.com/miguelcsx/miguelcsx/blob/main/assets/profile_galaxy.gif)
 
 <!-- Social icons section -->
 <p align="center">
@@ -11,7 +11,7 @@
   <!-- Linkedin -->
   <a target="_blank" href="https://linkedin.com/in/miguelcsx"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg#gh-light-mode-only"/><img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/50/da4167/linkedin.png#gh-dark-mode-only"/></a>
   <!-- Facebook -->
-  <a target="_blank" href="https://facebook.com/miguelxcs"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg#gh-light-mode-only"/><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/da4167/facebook-new.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://facebook.com/miguelxcs"><img width="32px" alt="Facebook" title="Facebook" src="https://github.com/miguelcsx/miguelcsx/blob/main/assets/icons/facebook-light.svg#gh-light-mode-only"/><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/da4167/facebook-new.png#gh-dark-mode-only"/></a>
   
   
 </p>
