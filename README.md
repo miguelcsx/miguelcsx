@@ -15,7 +15,8 @@
   
   
 </p>
-[![Facebook Light](https://github.com/github-light.png#gh-dark-mode-only)](https://facebook.com/miguelxcs)
+
+[![Facebook Light](https://github.com/miguelcsx/miguelcsx/blob/main/assets/icons/facebook-light.svg)](https://facebook.com/miguelxcs)
 
 ### Welcome back! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=miguelcsx.miguecsx)
 
