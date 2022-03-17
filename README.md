@@ -5,20 +5,19 @@
 <!-- Social icons section -->
 <p align="center">
   <!-- Twitter-->
-  <a target="_blank" href="https://twitter.com/miguelcsx"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg#gh-light-mode-only"/><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/32/da4167/twitter.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://twitter.com/miguelcsx"><img width="32px" alt="Twitter" title="Twitter" src="https://img.icons8.com/ios-filled/32/da4167/twitter.png#gh-dark-mode-only"/></a>
   <!-- Instagram -->
-  <a target="_blank" href="https://www.instagram.com/miguelcsx/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg#gh-light-mode-only"/><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/da4167/instagram-new--v1.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://www.instagram.com/miguelcsx/"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/ios-filled/50/da4167/instagram-new--v1.png#gh-dark-mode-only"/></a>
   <!-- Linkedin -->
-  <a target="_blank" href="https://linkedin.com/in/miguelcsx"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg#gh-light-mode-only"/><img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/50/da4167/linkedin.png#gh-dark-mode-only"/></a>
+  <a target="_blank" href="https://linkedin.com/in/miguelcsx"><<img width="32px" alt="Linkedin" title="Linkedin" src="https://img.icons8.com/ios-filled/50/da4167/linkedin.png#gh-dark-mode-only"/></a>
   <!-- Facebook -->
-  
+  <a target="_blank" href="https://facebook.com/miguelxcs"><img width="32px" alt="Facebook" title="Facebook" src="https://img.icons8.com/ios-filled/50/da4167/facebook-new.png#gh-dark-mode-only"/></a>
   
   
 </p>
 
-[![Facebook Light](https://github.com/miguelcsx/miguelcsx/blob/main/assets/icons/facebook-light.svg | width=32px)](https://facebook.com/miguelxcs)
 
-### Welcome back! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=miguelcsx.miguecsx)
+### Welcome back! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=miguelcsx.miguelcsx)
 
 I'm a computer science student and traveler who loves to learn new things and connect with people and cultures.
 I tend to be very creative, and I try to give my best in everything I do, I work on projects that allow me to leave my mark on the world.
