@@ -2,10 +2,10 @@ Hello world, I'm Miguel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
 =======================
 ![Hey there, I'm Miguel](https://github.com/miguelcsx/miguelcsx/blob/main/assets/profile_galaxy.gif)
 
-<a href="https://www.github.com/miguelcsx" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/miguelcsx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 <p align="center"> <a href="https://www.facebook.com/miguelxcs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/miguelcsx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/miguelcsx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/miguelcsx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/miguelcsx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/miguelcsx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+<p align="center"><a href="https://www.github.com/miguelcsx" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/miguelcsx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
 
 ### Welcome back! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=miguelcsx.miguelcsx)
 
