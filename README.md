@@ -16,7 +16,7 @@ I tend to be very creative, and I try to give my best in everything I do, I work
 - 🔭 I'm currently working on somenthing amazing;
 - 🚀 I'm currently learning Smart Contracts and Algorithmic efficiency;
 
-### Skills
+### ⚡ Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,7 +42,7 @@ I tend to be very creative, and I try to give my best in everything I do, I work
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
 
-### Badges
+### 📈 Badges
 
 <b>My GitHub Stats</b>
 
