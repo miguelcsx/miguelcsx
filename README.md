@@ -1,4 +1,4 @@
-Hello world, I'm Miguel <img width ="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" > 
+Hello world, I'm Miguel 👋 
 =======================
 
 ![Hey there, I'm Miguel](assets/profile_galaxy.gif)
